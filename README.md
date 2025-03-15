@@ -7,4 +7,5 @@ This program is currently in beta testing and has the features listed below:
 - End-to-End Encryption
 - User Profiles (ex. username-pfp-bio)
 - Light and Dark themes (dark by default)
-And much more!
+- Sending and Recieving Files
+And much more coming soon!
