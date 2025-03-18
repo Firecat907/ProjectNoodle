@@ -1,5 +1,5 @@
-# ProjectNoodle
-ProjectNoodle is a simple but effective way to chat with your friends mid-game or do anything, really.
+# Strafe
+## Strafe is a simple but effective way to chat with your friends mid-game or do anything, really.
 All messages and voice calls are end to end encrypted.
 This program is currently in beta testing and has the features listed below:
 - Voice Chat
