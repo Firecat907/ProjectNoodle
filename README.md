@@ -1,5 +1,5 @@
 # Strafe
-## Strafe is a simple but effective way to chat with your friends mid-game or do anything, really.
+## Strafe is a simple but effective way to chat with your friends mid-game or do anything.
 All messages and voice calls are end to end encrypted.
 This program is currently in beta testing and has the features listed below:
 - Voice Chat
